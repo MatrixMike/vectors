@@ -1,6 +1,6 @@
 name:                vectors
 version:             0.1.0.0
--- synopsis:
+synopsis:            a demo program suite for vectors in physics
 -- description:
 homepage:            https://github.com/githubuser/vectors#readme
 license:             BSD3
@@ -11,7 +11,7 @@ copyright:           2017 Author name here
 category:            Web
 build-type:          Simple
 extra-source-files:  README.md
-cabal-version:       >=1.10
+cabal-version:       >=1.24
 
 library
   hs-source-dirs:      src
