@@ -1,4 +1,7 @@
 # vectors
 vector code
 
-neede to : sudo apt-get install freeglut3 freeglut3-dev
+need to : sudo apt-get install freeglut3 freeglut3-dev
+
+in src we can compile all modules separately with ghc
+
