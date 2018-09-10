@@ -70,5 +70,7 @@ back = makeColorI 230 204 255 255 --makeColorI 204 255  204 100
 
 field :: IO ()
 field = drawPics . fieldPics $ vf5
--- main :: IO ()fieldP-- main = display window background axes 
+-- 
+
+--main :: IO ()fieldP-- main = display window background axes 
 
