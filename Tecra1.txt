@@ -1,0 +1,6 @@
+The Glorious Glasgow Haskell Compilation System, version 7.10.3
+Linux mikeh-Latitude-D630 4.15.0-34-generic #37~16.04.1-Ubuntu SMP Tue Aug 28 10:44:06 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Distributor ID:	Ubuntu
+Description:	Ubuntu 16.04.5 LTS
+Release:	16.04
+Codename:	xenial
