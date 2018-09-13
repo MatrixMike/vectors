@@ -1,0 +1,6 @@
+The Glorious Glasgow Haskell Compilation System, version 8.0.2
+Linux mikeh-Dell-DM051 4.4.0-21-generic #37-Ubuntu SMP Mon Apr 18 18:33:37 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+Distributor ID:	LinuxMint
+Description:	Linux Mint 18 Sarah
+Release:	18
+Codename:	sarah
